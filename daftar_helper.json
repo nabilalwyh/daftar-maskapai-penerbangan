@@ -1,0 +1,12 @@
+{
+  "Pajak": {
+    "cgk": [50000, "Soekarno-Hatta (CGK)"],
+    "bdo": [30000, "Husein Sastranegara (BDO)"],
+    "mlg": [40000, "Abdul Rachman Saleh (MLG) "],
+    "sub": [40000, "Juanda (SUB)"],
+    "dps": [80000, "Juanda (SUB)"],
+    "upg": [70000, "Hasanuddin (UPG)"],
+    "inx": [90000, "Inanwatan (INX)"],
+    "btj": [70000, "Sultan Iskandarmuda (BTJ)"]
+  }
+}
